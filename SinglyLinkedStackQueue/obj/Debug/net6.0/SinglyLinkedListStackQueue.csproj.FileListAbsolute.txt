@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DecagonTasks\week-1-task-Esosa-Agbonavbare\SinglyLinkedStackQueue\bin\Debug\net6.0\SinglyLinkedListStackQueue.exe
+C:\Users\user\source\repos\DecagonTasks\week-1-task-Esosa-Agbonavbare\SinglyLinkedStackQueue\bin\Debug\net6.0\SinglyLinkedListStackQueue.deps.json
+C:\Users\user\source\repos\DecagonTasks\week-1-task-Esosa-Agbonavbare\SinglyLinkedStackQueue\bin\Debug\net6.0\SinglyLinkedListStackQueue.runtimeconfig.json
+C:\Users\user\source\repos\DecagonTasks\week-1-task-Esosa-Agbonavbare\SinglyLinkedStackQueue\bin\Debug\net6.0\SinglyLinkedListStackQueue.dll
+C:\Users\user\source\repos\DecagonTasks\week-1-task-Esosa-Agbonavbare\SinglyLinkedStackQueue\bin\Debug\net6.0\SinglyLinkedListStackQueue.pdb
+C:\Users\user\source\repos\DecagonTasks\week-1-task-Esosa-Agbonavbare\SinglyLinkedStackQueue\obj\Debug\net6.0\SinglyLinkedListStackQueue.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DecagonTasks\week-1-task-Esosa-Agbonavbare\SinglyLinkedStackQueue\obj\Debug\net6.0\SinglyLinkedListStackQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DecagonTasks\week-1-task-Esosa-Agbonavbare\SinglyLinkedStackQueue\obj\Debug\net6.0\SinglyLinkedListStackQueue.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DecagonTasks\week-1-task-Esosa-Agbonavbare\SinglyLinkedStackQueue\obj\Debug\net6.0\SinglyLinkedListStackQueue.AssemblyInfo.cs
+C:\Users\user\source\repos\DecagonTasks\week-1-task-Esosa-Agbonavbare\SinglyLinkedStackQueue\obj\Debug\net6.0\SinglyLinkedListStackQueue.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DecagonTasks\week-1-task-Esosa-Agbonavbare\SinglyLinkedStackQueue\obj\Debug\net6.0\SinglyLinkedListStackQueue.dll
+C:\Users\user\source\repos\DecagonTasks\week-1-task-Esosa-Agbonavbare\SinglyLinkedStackQueue\obj\Debug\net6.0\refint\SinglyLinkedListStackQueue.dll
+C:\Users\user\source\repos\DecagonTasks\week-1-task-Esosa-Agbonavbare\SinglyLinkedStackQueue\obj\Debug\net6.0\SinglyLinkedListStackQueue.pdb
+C:\Users\user\source\repos\DecagonTasks\week-1-task-Esosa-Agbonavbare\SinglyLinkedStackQueue\obj\Debug\net6.0\SinglyLinkedListStackQueue.genruntimeconfig.cache
+C:\Users\user\source\repos\DecagonTasks\week-1-task-Esosa-Agbonavbare\SinglyLinkedStackQueue\obj\Debug\net6.0\ref\SinglyLinkedListStackQueue.dll
